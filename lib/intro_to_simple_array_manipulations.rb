@@ -10,7 +10,7 @@ def using_pop(colors_in_the_rainbow)
 
 return colors_in_the_rainbow.pop
 end
-def pop_with_args(colors_in_the_rainbow)
+def pop_with_args(small_dogs)
 
-return colors_in_the_rainbow.pop
+return small_dogs.pop
 end
