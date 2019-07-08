@@ -12,5 +12,5 @@ return colors_in_the_rainbow.pop
 end
 def pop_with_args(small_dogs)
 
-return small_dogs.pop
+return small_dogs.pop_with_args
 end
